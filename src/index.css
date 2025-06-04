@@ -83,7 +83,7 @@ button:focus-visible {
   border-radius: 3px;
   height: 60px;
   cursor: pointer;
-  background-color: linear-gradient(90deg, #fc466b 0%, #3f5efb 100%);
+  background-image: linear-gradient(to right, #1e99ff, #6d80ef, #9763d3, #b23fad, #bf0080);
 }
 
 .show{
